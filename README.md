@@ -57,3 +57,12 @@ $$
 
 The quadratic formula is used to find the two possible solutions, and the positive one is selected as the equivalent resistance.
 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## 🚀 About Me
+- [@nforoutann](https://github.com/nforoutann)
+I'm a Computer Engineering (Computer Science) student at Shahid Beheshti University, passionate about technology, a lifelong learner, and professional nerd.
+
